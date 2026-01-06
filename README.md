@@ -1,4 +1,4 @@
-# 📊 Marketing Analytics Dashboard
+# 📊 Marketing Analytics Dashboard – Tableau
 
 ## 🔍 Project Overview
 
@@ -12,6 +12,20 @@ The dashboard enables stakeholders to:
 - Identify growth trends, risks, and optimization opportunities
 
 The analysis is demonstrated using October 2023 data, with month-over-month (MoM) comparisons to highlight performance changes.
+
+---
+
+### Overview – Marketing Performance Snapshot
+![Marketing Dashboard Overview](Screenshot%20-%20Mkt%20Analytics%20Dashboard%20Screen%201.png)
+
+This screen provides a high-level executive summary of marketing health, covering traffic, engagement, funnel performance, devices, reactions, and Net Promoter Score (NPS).
+
+---
+
+### Channel Analysis – Organic, Referral & Social Media
+![Marketing Dashboard Channel Analysis](Screenshot%20-%20Mkt%20Analytics%20Dashboard%20Screen%202.png)
+
+This screen deep-dives into channel-level performance, highlighting traffic trends, revenue contribution, sub-channel mix, and customer lifetime value (CLV).
 
 ---
 
@@ -91,7 +105,7 @@ This allows stakeholders to identify:
 ## 🧠 Tools & Technologies
 
 - Tableau – Dashboard development & visualization
-- Python, Excel
+- SQL / Excel (assumed data preparation)
 - Marketing Analytics KPIs
 - Funnel & Cohort-based analysis concepts
 
