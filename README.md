@@ -1,4 +1,4 @@
-# 📊 Marketing Analytics Dashboard – Tableau
+# 📊 Marketing Analytics Dashboard
 
 ## 🔍 Project Overview
 
