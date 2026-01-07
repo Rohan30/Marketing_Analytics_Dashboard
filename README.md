@@ -83,12 +83,14 @@ For each channel, the dashboard shows:
   - Referral: Affiliate, Blogs, Email Campaigns  
   - Social Media: Instagram, Facebook, YouTube  
 - Customer Lifetime Value (CLV) by sub-channel
+- Customer Acquisition Cost (CAC) by sub- channel
 
 This allows stakeholders to identify:
 
 - High-volume but low-quality channels
 - High-CLV sub-channels worth scaling
 - Channels driving growth vs volatility
+- Channels having high customer acquisition costs
 
 ---
 
@@ -105,7 +107,8 @@ This allows stakeholders to identify:
 ## 🧠 Tools & Technologies
 
 - Tableau – Dashboard development & visualization
-- SQL / Excel (assumed data preparation)
+- Excel - Data
+- Python- Data Cleansing and Data Transformation
 - Marketing Analytics KPIs
 - Funnel & Cohort-based analysis concepts
 
